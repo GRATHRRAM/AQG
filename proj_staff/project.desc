@@ -1,0 +1,32 @@
+progress ; click on rect
+progress ; get points
+progress ; lines system on rects
+progress ; rects moving
+progress ; if rects colide change direction
+progress ; levels
+progress ; dificulti
+doing!   ; lithest pasible
+progress ; text?
+progress ; particles
+
+
+-- progress --
+basic setup    ? yes
+basic data st  ? no
+basic gameplay ? no
+basic finish   ? no
+adv staff      ? no
+adv finish     ? no
+fut basic      ? no
+fut adv        ? no
+fut finish     ? no
+
+
+-- fucure? --
+more particles (difrent)
+textures
+no rect (triengles, circles, ...)?
+sound
+multiple sound
+youre own sound
+other lines
